@@ -1,3 +1,3 @@
 # ansible_home
 
-Ansible might be awesome
+Ansible might be awesome.
